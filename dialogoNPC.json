@@ -5,12 +5,8 @@
     [["Quick Man"], ["Llegas tarde, Mega Man. Como siempre."]],
     [["Mega Man"], ["No tan tarde como para detenerte."]],
     [["Quick Man"], ["¡Atrápame si puedes!"]],
-    [["ACTION"], ["Quick Man se mueve rápidamente alrededor de la sala."]],
     [["Mega Man"], ["¡No dejaré que escapes esta vez!"]],
-    [["ACTION"], ["Mega Man dispara. Quick Man bloquea con su boomerang."]],
-    [["Quick Man"], ["Vas a necesitar algo más que eso."]],
-    [["ACTION"], ["Mega Man dispara un tiro cargado. Quick Man recibe el impacto y cae de rodillas."]],
-    [["Quick Man"], ["Hah… nada mal. Pero la próxima vez… seré aún más rápido."]],
-    [["ACTION"], ["Quick Man desaparece. Mega Man obtiene 'Quick Boomerang'."]]
+    [["Quick Man"], ["Debes derrotar a mi dragón. Buena suerte con eso!"]],
+    [["Mega Man"], ["Hah… eso ya lo veremos."]],
   ]
 }
